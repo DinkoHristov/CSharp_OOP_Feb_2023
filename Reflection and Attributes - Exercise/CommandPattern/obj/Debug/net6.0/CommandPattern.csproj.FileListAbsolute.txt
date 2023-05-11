@@ -1,0 +1,15 @@
+D:\SoftUni\C#Code\C# OOP\Reflection and Attributes - Exercise\CommandPattern\bin\Debug\net6.0\CommandPattern.exe
+D:\SoftUni\C#Code\C# OOP\Reflection and Attributes - Exercise\CommandPattern\bin\Debug\net6.0\CommandPattern.deps.json
+D:\SoftUni\C#Code\C# OOP\Reflection and Attributes - Exercise\CommandPattern\bin\Debug\net6.0\CommandPattern.runtimeconfig.json
+D:\SoftUni\C#Code\C# OOP\Reflection and Attributes - Exercise\CommandPattern\bin\Debug\net6.0\CommandPattern.dll
+D:\SoftUni\C#Code\C# OOP\Reflection and Attributes - Exercise\CommandPattern\bin\Debug\net6.0\CommandPattern.pdb
+D:\SoftUni\C#Code\C# OOP\Reflection and Attributes - Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.csproj.AssemblyReference.cache
+D:\SoftUni\C#Code\C# OOP\Reflection and Attributes - Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#Code\C# OOP\Reflection and Attributes - Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.AssemblyInfoInputs.cache
+D:\SoftUni\C#Code\C# OOP\Reflection and Attributes - Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.AssemblyInfo.cs
+D:\SoftUni\C#Code\C# OOP\Reflection and Attributes - Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Code\C# OOP\Reflection and Attributes - Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.dll
+D:\SoftUni\C#Code\C# OOP\Reflection and Attributes - Exercise\CommandPattern\obj\Debug\net6.0\refint\CommandPattern.dll
+D:\SoftUni\C#Code\C# OOP\Reflection and Attributes - Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.pdb
+D:\SoftUni\C#Code\C# OOP\Reflection and Attributes - Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.genruntimeconfig.cache
+D:\SoftUni\C#Code\C# OOP\Reflection and Attributes - Exercise\CommandPattern\obj\Debug\net6.0\ref\CommandPattern.dll

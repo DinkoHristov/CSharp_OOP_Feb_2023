@@ -1,0 +1,15 @@
+D:\SoftUni\C#Code\C# OOP\CSharp_OOP_Exam_08_April_2023\02.UnitTests\RobotFactory\bin\Debug\net6.0\RobotFactory.exe
+D:\SoftUni\C#Code\C# OOP\CSharp_OOP_Exam_08_April_2023\02.UnitTests\RobotFactory\bin\Debug\net6.0\RobotFactory.deps.json
+D:\SoftUni\C#Code\C# OOP\CSharp_OOP_Exam_08_April_2023\02.UnitTests\RobotFactory\bin\Debug\net6.0\RobotFactory.runtimeconfig.json
+D:\SoftUni\C#Code\C# OOP\CSharp_OOP_Exam_08_April_2023\02.UnitTests\RobotFactory\bin\Debug\net6.0\RobotFactory.dll
+D:\SoftUni\C#Code\C# OOP\CSharp_OOP_Exam_08_April_2023\02.UnitTests\RobotFactory\bin\Debug\net6.0\RobotFactory.pdb
+D:\SoftUni\C#Code\C# OOP\CSharp_OOP_Exam_08_April_2023\02.UnitTests\RobotFactory\obj\Debug\net6.0\RobotFactory.csproj.AssemblyReference.cache
+D:\SoftUni\C#Code\C# OOP\CSharp_OOP_Exam_08_April_2023\02.UnitTests\RobotFactory\obj\Debug\net6.0\RobotFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#Code\C# OOP\CSharp_OOP_Exam_08_April_2023\02.UnitTests\RobotFactory\obj\Debug\net6.0\RobotFactory.AssemblyInfoInputs.cache
+D:\SoftUni\C#Code\C# OOP\CSharp_OOP_Exam_08_April_2023\02.UnitTests\RobotFactory\obj\Debug\net6.0\RobotFactory.AssemblyInfo.cs
+D:\SoftUni\C#Code\C# OOP\CSharp_OOP_Exam_08_April_2023\02.UnitTests\RobotFactory\obj\Debug\net6.0\RobotFactory.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Code\C# OOP\CSharp_OOP_Exam_08_April_2023\02.UnitTests\RobotFactory\obj\Debug\net6.0\RobotFactory.dll
+D:\SoftUni\C#Code\C# OOP\CSharp_OOP_Exam_08_April_2023\02.UnitTests\RobotFactory\obj\Debug\net6.0\refint\RobotFactory.dll
+D:\SoftUni\C#Code\C# OOP\CSharp_OOP_Exam_08_April_2023\02.UnitTests\RobotFactory\obj\Debug\net6.0\RobotFactory.pdb
+D:\SoftUni\C#Code\C# OOP\CSharp_OOP_Exam_08_April_2023\02.UnitTests\RobotFactory\obj\Debug\net6.0\RobotFactory.genruntimeconfig.cache
+D:\SoftUni\C#Code\C# OOP\CSharp_OOP_Exam_08_April_2023\02.UnitTests\RobotFactory\obj\Debug\net6.0\ref\RobotFactory.dll

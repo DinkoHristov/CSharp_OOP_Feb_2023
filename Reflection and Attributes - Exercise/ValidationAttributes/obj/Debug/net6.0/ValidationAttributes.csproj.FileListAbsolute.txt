@@ -1,0 +1,15 @@
+D:\SoftUni\C#Code\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\bin\Debug\net6.0\ValidationAttributes.exe
+D:\SoftUni\C#Code\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\bin\Debug\net6.0\ValidationAttributes.deps.json
+D:\SoftUni\C#Code\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\bin\Debug\net6.0\ValidationAttributes.runtimeconfig.json
+D:\SoftUni\C#Code\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\bin\Debug\net6.0\ValidationAttributes.dll
+D:\SoftUni\C#Code\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\bin\Debug\net6.0\ValidationAttributes.pdb
+D:\SoftUni\C#Code\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.csproj.AssemblyReference.cache
+D:\SoftUni\C#Code\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#Code\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.AssemblyInfoInputs.cache
+D:\SoftUni\C#Code\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.AssemblyInfo.cs
+D:\SoftUni\C#Code\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Code\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.dll
+D:\SoftUni\C#Code\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\net6.0\refint\ValidationAttributes.dll
+D:\SoftUni\C#Code\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.pdb
+D:\SoftUni\C#Code\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.genruntimeconfig.cache
+D:\SoftUni\C#Code\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\net6.0\ref\ValidationAttributes.dll

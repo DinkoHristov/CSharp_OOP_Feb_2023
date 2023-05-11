@@ -1,0 +1,15 @@
+D:\SoftUni\C#Code\C# OOP\CSharp_OOP_Exam_08_April_2023\01.OOP_Task_Structure\bin\Debug\net6.0\RobotService.exe
+D:\SoftUni\C#Code\C# OOP\CSharp_OOP_Exam_08_April_2023\01.OOP_Task_Structure\bin\Debug\net6.0\RobotService.deps.json
+D:\SoftUni\C#Code\C# OOP\CSharp_OOP_Exam_08_April_2023\01.OOP_Task_Structure\bin\Debug\net6.0\RobotService.runtimeconfig.json
+D:\SoftUni\C#Code\C# OOP\CSharp_OOP_Exam_08_April_2023\01.OOP_Task_Structure\bin\Debug\net6.0\RobotService.dll
+D:\SoftUni\C#Code\C# OOP\CSharp_OOP_Exam_08_April_2023\01.OOP_Task_Structure\bin\Debug\net6.0\RobotService.pdb
+D:\SoftUni\C#Code\C# OOP\CSharp_OOP_Exam_08_April_2023\01.OOP_Task_Structure\obj\Debug\net6.0\RobotService.csproj.AssemblyReference.cache
+D:\SoftUni\C#Code\C# OOP\CSharp_OOP_Exam_08_April_2023\01.OOP_Task_Structure\obj\Debug\net6.0\RobotService.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#Code\C# OOP\CSharp_OOP_Exam_08_April_2023\01.OOP_Task_Structure\obj\Debug\net6.0\RobotService.AssemblyInfoInputs.cache
+D:\SoftUni\C#Code\C# OOP\CSharp_OOP_Exam_08_April_2023\01.OOP_Task_Structure\obj\Debug\net6.0\RobotService.AssemblyInfo.cs
+D:\SoftUni\C#Code\C# OOP\CSharp_OOP_Exam_08_April_2023\01.OOP_Task_Structure\obj\Debug\net6.0\RobotService.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Code\C# OOP\CSharp_OOP_Exam_08_April_2023\01.OOP_Task_Structure\obj\Debug\net6.0\RobotService.dll
+D:\SoftUni\C#Code\C# OOP\CSharp_OOP_Exam_08_April_2023\01.OOP_Task_Structure\obj\Debug\net6.0\refint\RobotService.dll
+D:\SoftUni\C#Code\C# OOP\CSharp_OOP_Exam_08_April_2023\01.OOP_Task_Structure\obj\Debug\net6.0\RobotService.pdb
+D:\SoftUni\C#Code\C# OOP\CSharp_OOP_Exam_08_April_2023\01.OOP_Task_Structure\obj\Debug\net6.0\RobotService.genruntimeconfig.cache
+D:\SoftUni\C#Code\C# OOP\CSharp_OOP_Exam_08_April_2023\01.OOP_Task_Structure\obj\Debug\net6.0\ref\RobotService.dll
