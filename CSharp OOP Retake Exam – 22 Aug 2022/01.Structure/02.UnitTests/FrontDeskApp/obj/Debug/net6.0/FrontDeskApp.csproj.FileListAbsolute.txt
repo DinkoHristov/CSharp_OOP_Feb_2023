@@ -1,0 +1,15 @@
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam – 22 Aug 2022\01.Structure\02.UnitTests\FrontDeskApp\bin\Debug\net6.0\FrontDeskApp.exe
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam – 22 Aug 2022\01.Structure\02.UnitTests\FrontDeskApp\bin\Debug\net6.0\FrontDeskApp.deps.json
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam – 22 Aug 2022\01.Structure\02.UnitTests\FrontDeskApp\bin\Debug\net6.0\FrontDeskApp.runtimeconfig.json
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam – 22 Aug 2022\01.Structure\02.UnitTests\FrontDeskApp\bin\Debug\net6.0\FrontDeskApp.dll
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam – 22 Aug 2022\01.Structure\02.UnitTests\FrontDeskApp\bin\Debug\net6.0\FrontDeskApp.pdb
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam – 22 Aug 2022\01.Structure\02.UnitTests\FrontDeskApp\obj\Debug\net6.0\FrontDeskApp.csproj.AssemblyReference.cache
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam – 22 Aug 2022\01.Structure\02.UnitTests\FrontDeskApp\obj\Debug\net6.0\FrontDeskApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam – 22 Aug 2022\01.Structure\02.UnitTests\FrontDeskApp\obj\Debug\net6.0\FrontDeskApp.AssemblyInfoInputs.cache
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam – 22 Aug 2022\01.Structure\02.UnitTests\FrontDeskApp\obj\Debug\net6.0\FrontDeskApp.AssemblyInfo.cs
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam – 22 Aug 2022\01.Structure\02.UnitTests\FrontDeskApp\obj\Debug\net6.0\FrontDeskApp.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam – 22 Aug 2022\01.Structure\02.UnitTests\FrontDeskApp\obj\Debug\net6.0\FrontDeskApp.dll
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam – 22 Aug 2022\01.Structure\02.UnitTests\FrontDeskApp\obj\Debug\net6.0\refint\FrontDeskApp.dll
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam – 22 Aug 2022\01.Structure\02.UnitTests\FrontDeskApp\obj\Debug\net6.0\FrontDeskApp.pdb
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam – 22 Aug 2022\01.Structure\02.UnitTests\FrontDeskApp\obj\Debug\net6.0\FrontDeskApp.genruntimeconfig.cache
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam – 22 Aug 2022\01.Structure\02.UnitTests\FrontDeskApp\obj\Debug\net6.0\ref\FrontDeskApp.dll

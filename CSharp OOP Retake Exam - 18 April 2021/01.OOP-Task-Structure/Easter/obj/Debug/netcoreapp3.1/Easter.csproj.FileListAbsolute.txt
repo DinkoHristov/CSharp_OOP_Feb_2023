@@ -1,0 +1,14 @@
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 18 April 2021\01.OOP-Task-Structure\Easter\bin\Debug\netcoreapp3.1\Easter.exe
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 18 April 2021\01.OOP-Task-Structure\Easter\bin\Debug\netcoreapp3.1\Easter.deps.json
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 18 April 2021\01.OOP-Task-Structure\Easter\bin\Debug\netcoreapp3.1\Easter.runtimeconfig.json
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 18 April 2021\01.OOP-Task-Structure\Easter\bin\Debug\netcoreapp3.1\Easter.runtimeconfig.dev.json
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 18 April 2021\01.OOP-Task-Structure\Easter\bin\Debug\netcoreapp3.1\Easter.dll
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 18 April 2021\01.OOP-Task-Structure\Easter\bin\Debug\netcoreapp3.1\Easter.pdb
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 18 April 2021\01.OOP-Task-Structure\Easter\obj\Debug\netcoreapp3.1\Easter.csproj.AssemblyReference.cache
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 18 April 2021\01.OOP-Task-Structure\Easter\obj\Debug\netcoreapp3.1\Easter.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 18 April 2021\01.OOP-Task-Structure\Easter\obj\Debug\netcoreapp3.1\Easter.AssemblyInfoInputs.cache
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 18 April 2021\01.OOP-Task-Structure\Easter\obj\Debug\netcoreapp3.1\Easter.AssemblyInfo.cs
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 18 April 2021\01.OOP-Task-Structure\Easter\obj\Debug\netcoreapp3.1\Easter.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 18 April 2021\01.OOP-Task-Structure\Easter\obj\Debug\netcoreapp3.1\Easter.dll
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 18 April 2021\01.OOP-Task-Structure\Easter\obj\Debug\netcoreapp3.1\Easter.pdb
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 18 April 2021\01.OOP-Task-Structure\Easter\obj\Debug\netcoreapp3.1\Easter.genruntimeconfig.cache

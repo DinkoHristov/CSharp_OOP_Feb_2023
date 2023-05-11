@@ -1,0 +1,14 @@
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 10 December 2022\01.ChristmasPartyShop\01.Structure\bin\Debug\netcoreapp3.1\ChristmasPastryShop.exe
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 10 December 2022\01.ChristmasPartyShop\01.Structure\bin\Debug\netcoreapp3.1\ChristmasPastryShop.deps.json
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 10 December 2022\01.ChristmasPartyShop\01.Structure\bin\Debug\netcoreapp3.1\ChristmasPastryShop.runtimeconfig.json
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 10 December 2022\01.ChristmasPartyShop\01.Structure\bin\Debug\netcoreapp3.1\ChristmasPastryShop.runtimeconfig.dev.json
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 10 December 2022\01.ChristmasPartyShop\01.Structure\bin\Debug\netcoreapp3.1\ChristmasPastryShop.dll
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 10 December 2022\01.ChristmasPartyShop\01.Structure\bin\Debug\netcoreapp3.1\ChristmasPastryShop.pdb
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 10 December 2022\01.ChristmasPartyShop\01.Structure\obj\Debug\netcoreapp3.1\ChristmasPastryShop.csproj.AssemblyReference.cache
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 10 December 2022\01.ChristmasPartyShop\01.Structure\obj\Debug\netcoreapp3.1\ChristmasPastryShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 10 December 2022\01.ChristmasPartyShop\01.Structure\obj\Debug\netcoreapp3.1\ChristmasPastryShop.AssemblyInfoInputs.cache
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 10 December 2022\01.ChristmasPartyShop\01.Structure\obj\Debug\netcoreapp3.1\ChristmasPastryShop.AssemblyInfo.cs
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 10 December 2022\01.ChristmasPartyShop\01.Structure\obj\Debug\netcoreapp3.1\ChristmasPastryShop.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 10 December 2022\01.ChristmasPartyShop\01.Structure\obj\Debug\netcoreapp3.1\ChristmasPastryShop.dll
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 10 December 2022\01.ChristmasPartyShop\01.Structure\obj\Debug\netcoreapp3.1\ChristmasPastryShop.pdb
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 10 December 2022\01.ChristmasPartyShop\01.Structure\obj\Debug\netcoreapp3.1\ChristmasPastryShop.genruntimeconfig.cache

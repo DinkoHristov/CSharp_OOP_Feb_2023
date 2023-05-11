@@ -1,0 +1,14 @@
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 10 April 2021\02.UnitTests\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.exe
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 10 April 2021\02.UnitTests\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.deps.json
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 10 April 2021\02.UnitTests\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.json
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 10 April 2021\02.UnitTests\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.dev.json
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 10 April 2021\02.UnitTests\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.dll
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 10 April 2021\02.UnitTests\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.pdb
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 10 April 2021\02.UnitTests\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csproj.AssemblyReference.cache
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 10 April 2021\02.UnitTests\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 10 April 2021\02.UnitTests\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfoInputs.cache
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 10 April 2021\02.UnitTests\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfo.cs
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 10 April 2021\02.UnitTests\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 10 April 2021\02.UnitTests\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.dll
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 10 April 2021\02.UnitTests\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.pdb
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 10 April 2021\02.UnitTests\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.genruntimeconfig.cache

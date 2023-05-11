@@ -1,0 +1,15 @@
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 20 Dec 2021\02.UnitTesting\Book\obj\Debug\net6.0\Book.csproj.AssemblyReference.cache
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 20 Dec 2021\02.UnitTesting\Book\obj\Debug\net6.0\Book.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 20 Dec 2021\02.UnitTesting\Book\obj\Debug\net6.0\Book.AssemblyInfoInputs.cache
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 20 Dec 2021\02.UnitTesting\Book\obj\Debug\net6.0\Book.AssemblyInfo.cs
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 20 Dec 2021\02.UnitTesting\Book\obj\Debug\net6.0\Book.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 20 Dec 2021\02.UnitTesting\Book\bin\Debug\net6.0\Book.exe
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 20 Dec 2021\02.UnitTesting\Book\bin\Debug\net6.0\Book.deps.json
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 20 Dec 2021\02.UnitTesting\Book\bin\Debug\net6.0\Book.runtimeconfig.json
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 20 Dec 2021\02.UnitTesting\Book\bin\Debug\net6.0\Book.dll
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 20 Dec 2021\02.UnitTesting\Book\bin\Debug\net6.0\Book.pdb
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 20 Dec 2021\02.UnitTesting\Book\obj\Debug\net6.0\Book.dll
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 20 Dec 2021\02.UnitTesting\Book\obj\Debug\net6.0\refint\Book.dll
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 20 Dec 2021\02.UnitTesting\Book\obj\Debug\net6.0\Book.pdb
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 20 Dec 2021\02.UnitTesting\Book\obj\Debug\net6.0\Book.genruntimeconfig.cache
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 20 Dec 2021\02.UnitTesting\Book\obj\Debug\net6.0\ref\Book.dll

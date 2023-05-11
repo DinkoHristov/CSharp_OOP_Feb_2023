@@ -1,0 +1,14 @@
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 15 August 2021\01.OOP-Task-Structure\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.exe
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 15 August 2021\01.OOP-Task-Structure\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.deps.json
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 15 August 2021\01.OOP-Task-Structure\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.runtimeconfig.json
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 15 August 2021\01.OOP-Task-Structure\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.runtimeconfig.dev.json
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 15 August 2021\01.OOP-Task-Structure\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.dll
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 15 August 2021\01.OOP-Task-Structure\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.pdb
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 15 August 2021\01.OOP-Task-Structure\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.csproj.AssemblyReference.cache
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 15 August 2021\01.OOP-Task-Structure\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 15 August 2021\01.OOP-Task-Structure\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.AssemblyInfoInputs.cache
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 15 August 2021\01.OOP-Task-Structure\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.AssemblyInfo.cs
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 15 August 2021\01.OOP-Task-Structure\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 15 August 2021\01.OOP-Task-Structure\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.dll
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 15 August 2021\01.OOP-Task-Structure\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.pdb
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 15 August 2021\01.OOP-Task-Structure\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 09 April 2022\02.UnitTests\SmartphoneShop\bin\Debug\net6.0\SmartphoneShop.exe
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 09 April 2022\02.UnitTests\SmartphoneShop\bin\Debug\net6.0\SmartphoneShop.deps.json
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 09 April 2022\02.UnitTests\SmartphoneShop\bin\Debug\net6.0\SmartphoneShop.runtimeconfig.json
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 09 April 2022\02.UnitTests\SmartphoneShop\bin\Debug\net6.0\SmartphoneShop.dll
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 09 April 2022\02.UnitTests\SmartphoneShop\bin\Debug\net6.0\SmartphoneShop.pdb
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 09 April 2022\02.UnitTests\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.csproj.AssemblyReference.cache
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 09 April 2022\02.UnitTests\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 09 April 2022\02.UnitTests\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.AssemblyInfoInputs.cache
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 09 April 2022\02.UnitTests\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.AssemblyInfo.cs
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 09 April 2022\02.UnitTests\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 09 April 2022\02.UnitTests\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.dll
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 09 April 2022\02.UnitTests\SmartphoneShop\obj\Debug\net6.0\refint\SmartphoneShop.dll
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 09 April 2022\02.UnitTests\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.pdb
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 09 April 2022\02.UnitTests\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.genruntimeconfig.cache
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 09 April 2022\02.UnitTests\SmartphoneShop\obj\Debug\net6.0\ref\SmartphoneShop.dll

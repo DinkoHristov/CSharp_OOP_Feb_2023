@@ -1,0 +1,14 @@
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 10 December 2022\01.ChristmasPartyShop\02.UnitTests\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.exe
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 10 December 2022\01.ChristmasPartyShop\02.UnitTests\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.deps.json
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 10 December 2022\01.ChristmasPartyShop\02.UnitTests\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.runtimeconfig.json
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 10 December 2022\01.ChristmasPartyShop\02.UnitTests\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.runtimeconfig.dev.json
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 10 December 2022\01.ChristmasPartyShop\02.UnitTests\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.dll
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 10 December 2022\01.ChristmasPartyShop\02.UnitTests\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.pdb
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 10 December 2022\01.ChristmasPartyShop\02.UnitTests\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.csproj.AssemblyReference.cache
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 10 December 2022\01.ChristmasPartyShop\02.UnitTests\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 10 December 2022\01.ChristmasPartyShop\02.UnitTests\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.AssemblyInfoInputs.cache
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 10 December 2022\01.ChristmasPartyShop\02.UnitTests\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.AssemblyInfo.cs
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 10 December 2022\01.ChristmasPartyShop\02.UnitTests\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 10 December 2022\01.ChristmasPartyShop\02.UnitTests\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.dll
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 10 December 2022\01.ChristmasPartyShop\02.UnitTests\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.pdb
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Exam - 10 December 2022\01.ChristmasPartyShop\02.UnitTests\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.genruntimeconfig.cache

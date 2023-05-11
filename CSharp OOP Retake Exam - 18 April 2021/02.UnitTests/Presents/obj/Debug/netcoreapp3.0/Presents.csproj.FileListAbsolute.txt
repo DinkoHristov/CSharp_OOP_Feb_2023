@@ -1,0 +1,14 @@
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 18 April 2021\02.UnitTests\Presents\bin\Debug\netcoreapp3.0\Presents.exe
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 18 April 2021\02.UnitTests\Presents\bin\Debug\netcoreapp3.0\Presents.deps.json
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 18 April 2021\02.UnitTests\Presents\bin\Debug\netcoreapp3.0\Presents.runtimeconfig.json
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 18 April 2021\02.UnitTests\Presents\bin\Debug\netcoreapp3.0\Presents.runtimeconfig.dev.json
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 18 April 2021\02.UnitTests\Presents\bin\Debug\netcoreapp3.0\Presents.dll
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 18 April 2021\02.UnitTests\Presents\bin\Debug\netcoreapp3.0\Presents.pdb
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 18 April 2021\02.UnitTests\Presents\obj\Debug\netcoreapp3.0\Presents.csproj.AssemblyReference.cache
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 18 April 2021\02.UnitTests\Presents\obj\Debug\netcoreapp3.0\Presents.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 18 April 2021\02.UnitTests\Presents\obj\Debug\netcoreapp3.0\Presents.AssemblyInfoInputs.cache
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 18 April 2021\02.UnitTests\Presents\obj\Debug\netcoreapp3.0\Presents.AssemblyInfo.cs
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 18 April 2021\02.UnitTests\Presents\obj\Debug\netcoreapp3.0\Presents.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 18 April 2021\02.UnitTests\Presents\obj\Debug\netcoreapp3.0\Presents.dll
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 18 April 2021\02.UnitTests\Presents\obj\Debug\netcoreapp3.0\Presents.pdb
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 18 April 2021\02.UnitTests\Presents\obj\Debug\netcoreapp3.0\Presents.genruntimeconfig.cache

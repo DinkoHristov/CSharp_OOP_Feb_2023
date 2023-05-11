@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UnOkRnVI6nMXpmAXB89F+iq5mZ/rPq6NVfz77hPQU7Qreqj+j87B+R4vNQROBrYIftA4DF+3rGMoEd139lVZEg==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\C#Code\\C# OOP\\CSharp OOP Retake Exam - 18 April 2021\\02.UnitTests\\Presents\\Presents.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

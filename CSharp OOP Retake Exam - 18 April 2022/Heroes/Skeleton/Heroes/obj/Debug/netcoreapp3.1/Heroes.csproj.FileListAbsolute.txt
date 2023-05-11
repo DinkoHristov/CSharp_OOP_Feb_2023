@@ -1,0 +1,14 @@
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 18 April 2022\Heroes\Skeleton\Heroes\bin\Debug\netcoreapp3.1\Heroes.exe
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 18 April 2022\Heroes\Skeleton\Heroes\bin\Debug\netcoreapp3.1\Heroes.deps.json
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 18 April 2022\Heroes\Skeleton\Heroes\bin\Debug\netcoreapp3.1\Heroes.runtimeconfig.json
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 18 April 2022\Heroes\Skeleton\Heroes\bin\Debug\netcoreapp3.1\Heroes.runtimeconfig.dev.json
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 18 April 2022\Heroes\Skeleton\Heroes\bin\Debug\netcoreapp3.1\Heroes.dll
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 18 April 2022\Heroes\Skeleton\Heroes\bin\Debug\netcoreapp3.1\Heroes.pdb
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 18 April 2022\Heroes\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.csproj.AssemblyReference.cache
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 18 April 2022\Heroes\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 18 April 2022\Heroes\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.AssemblyInfoInputs.cache
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 18 April 2022\Heroes\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.AssemblyInfo.cs
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 18 April 2022\Heroes\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 18 April 2022\Heroes\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.dll
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 18 April 2022\Heroes\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.pdb
+D:\SoftUni\C#Code\C# OOP\CSharp OOP Retake Exam - 18 April 2022\Heroes\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.genruntimeconfig.cache

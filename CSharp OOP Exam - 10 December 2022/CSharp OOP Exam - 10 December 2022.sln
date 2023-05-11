@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ChristmasPartyShop", "01.ChristmasPartyShop\01.ChristmasPartyShop.csproj", "{986F47CA-1538-479E-92C2-7507265C9163}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{986F47CA-1538-479E-92C2-7507265C9163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{986F47CA-1538-479E-92C2-7507265C9163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{986F47CA-1538-479E-92C2-7507265C9163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{986F47CA-1538-479E-92C2-7507265C9163}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0497ACBD-1BD1-4877-8219-60215797C7BA}
+	EndGlobalSection
+EndGlobal
