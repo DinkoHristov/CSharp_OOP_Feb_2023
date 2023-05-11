@@ -1,0 +1,14 @@
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\08.CollectionHierarchy\obj\Debug\netcoreapp3.1\08.CollectionHierarchy.csproj.AssemblyReference.cache
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\08.CollectionHierarchy\obj\Debug\netcoreapp3.1\08.CollectionHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\08.CollectionHierarchy\obj\Debug\netcoreapp3.1\08.CollectionHierarchy.AssemblyInfoInputs.cache
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\08.CollectionHierarchy\obj\Debug\netcoreapp3.1\08.CollectionHierarchy.AssemblyInfo.cs
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\08.CollectionHierarchy\obj\Debug\netcoreapp3.1\08.CollectionHierarchy.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\08.CollectionHierarchy\bin\Debug\netcoreapp3.1\08.CollectionHierarchy.exe
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\08.CollectionHierarchy\bin\Debug\netcoreapp3.1\08.CollectionHierarchy.deps.json
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\08.CollectionHierarchy\bin\Debug\netcoreapp3.1\08.CollectionHierarchy.runtimeconfig.json
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\08.CollectionHierarchy\bin\Debug\netcoreapp3.1\08.CollectionHierarchy.runtimeconfig.dev.json
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\08.CollectionHierarchy\bin\Debug\netcoreapp3.1\08.CollectionHierarchy.dll
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\08.CollectionHierarchy\bin\Debug\netcoreapp3.1\08.CollectionHierarchy.pdb
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\08.CollectionHierarchy\obj\Debug\netcoreapp3.1\08.CollectionHierarchy.dll
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\08.CollectionHierarchy\obj\Debug\netcoreapp3.1\08.CollectionHierarchy.pdb
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\08.CollectionHierarchy\obj\Debug\netcoreapp3.1\08.CollectionHierarchy.genruntimeconfig.cache

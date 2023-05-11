@@ -1,0 +1,14 @@
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\09.ExplicitInterfaces\bin\Debug\netcoreapp3.1\09.ExplicitInterfaces.exe
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\09.ExplicitInterfaces\bin\Debug\netcoreapp3.1\09.ExplicitInterfaces.deps.json
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\09.ExplicitInterfaces\bin\Debug\netcoreapp3.1\09.ExplicitInterfaces.runtimeconfig.json
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\09.ExplicitInterfaces\bin\Debug\netcoreapp3.1\09.ExplicitInterfaces.runtimeconfig.dev.json
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\09.ExplicitInterfaces\bin\Debug\netcoreapp3.1\09.ExplicitInterfaces.dll
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\09.ExplicitInterfaces\bin\Debug\netcoreapp3.1\09.ExplicitInterfaces.pdb
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\09.ExplicitInterfaces\obj\Debug\netcoreapp3.1\09.ExplicitInterfaces.csproj.AssemblyReference.cache
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\09.ExplicitInterfaces\obj\Debug\netcoreapp3.1\09.ExplicitInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\09.ExplicitInterfaces\obj\Debug\netcoreapp3.1\09.ExplicitInterfaces.AssemblyInfoInputs.cache
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\09.ExplicitInterfaces\obj\Debug\netcoreapp3.1\09.ExplicitInterfaces.AssemblyInfo.cs
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\09.ExplicitInterfaces\obj\Debug\netcoreapp3.1\09.ExplicitInterfaces.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\09.ExplicitInterfaces\obj\Debug\netcoreapp3.1\09.ExplicitInterfaces.dll
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\09.ExplicitInterfaces\obj\Debug\netcoreapp3.1\09.ExplicitInterfaces.pdb
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\09.ExplicitInterfaces\obj\Debug\netcoreapp3.1\09.ExplicitInterfaces.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\01.DefineanInterfaceIPerson\bin\Debug\netcoreapp3.1\01.DefineanInterfaceIPerson.exe
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\01.DefineanInterfaceIPerson\bin\Debug\netcoreapp3.1\01.DefineanInterfaceIPerson.deps.json
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\01.DefineanInterfaceIPerson\bin\Debug\netcoreapp3.1\01.DefineanInterfaceIPerson.runtimeconfig.json
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\01.DefineanInterfaceIPerson\bin\Debug\netcoreapp3.1\01.DefineanInterfaceIPerson.runtimeconfig.dev.json
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\01.DefineanInterfaceIPerson\bin\Debug\netcoreapp3.1\01.DefineanInterfaceIPerson.dll
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\01.DefineanInterfaceIPerson\bin\Debug\netcoreapp3.1\01.DefineanInterfaceIPerson.pdb
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\01.DefineanInterfaceIPerson\obj\Debug\netcoreapp3.1\01.DefineanInterfaceIPerson.csproj.AssemblyReference.cache
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\01.DefineanInterfaceIPerson\obj\Debug\netcoreapp3.1\01.DefineanInterfaceIPerson.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\01.DefineanInterfaceIPerson\obj\Debug\netcoreapp3.1\01.DefineanInterfaceIPerson.AssemblyInfoInputs.cache
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\01.DefineanInterfaceIPerson\obj\Debug\netcoreapp3.1\01.DefineanInterfaceIPerson.AssemblyInfo.cs
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\01.DefineanInterfaceIPerson\obj\Debug\netcoreapp3.1\01.DefineanInterfaceIPerson.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\01.DefineanInterfaceIPerson\obj\Debug\netcoreapp3.1\01.DefineanInterfaceIPerson.dll
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\01.DefineanInterfaceIPerson\obj\Debug\netcoreapp3.1\01.DefineanInterfaceIPerson.pdb
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\01.DefineanInterfaceIPerson\obj\Debug\netcoreapp3.1\01.DefineanInterfaceIPerson.genruntimeconfig.cache

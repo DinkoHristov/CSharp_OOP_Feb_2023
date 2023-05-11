@@ -1,0 +1,14 @@
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\02.MultipleImplementation\bin\Debug\netcoreapp3.1\02.MultipleImplementation.exe
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\02.MultipleImplementation\bin\Debug\netcoreapp3.1\02.MultipleImplementation.deps.json
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\02.MultipleImplementation\bin\Debug\netcoreapp3.1\02.MultipleImplementation.runtimeconfig.json
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\02.MultipleImplementation\bin\Debug\netcoreapp3.1\02.MultipleImplementation.runtimeconfig.dev.json
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\02.MultipleImplementation\bin\Debug\netcoreapp3.1\02.MultipleImplementation.dll
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\02.MultipleImplementation\bin\Debug\netcoreapp3.1\02.MultipleImplementation.pdb
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\02.MultipleImplementation\obj\Debug\netcoreapp3.1\02.MultipleImplementation.csproj.AssemblyReference.cache
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\02.MultipleImplementation\obj\Debug\netcoreapp3.1\02.MultipleImplementation.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\02.MultipleImplementation\obj\Debug\netcoreapp3.1\02.MultipleImplementation.AssemblyInfoInputs.cache
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\02.MultipleImplementation\obj\Debug\netcoreapp3.1\02.MultipleImplementation.AssemblyInfo.cs
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\02.MultipleImplementation\obj\Debug\netcoreapp3.1\02.MultipleImplementation.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\02.MultipleImplementation\obj\Debug\netcoreapp3.1\02.MultipleImplementation.dll
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\02.MultipleImplementation\obj\Debug\netcoreapp3.1\02.MultipleImplementation.pdb
+D:\SoftUni\C#Code\C# OOP\Interfaces and Abstraction - Exercise\02.MultipleImplementation\obj\Debug\netcoreapp3.1\02.MultipleImplementation.genruntimeconfig.cache
